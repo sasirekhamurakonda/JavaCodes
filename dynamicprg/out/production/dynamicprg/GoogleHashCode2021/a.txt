@@ -1,0 +1,35 @@
+6 4 5 2 1000
+2 0 rue-de-londres 1
+0 1 rue-d-amsterdam 1
+3 1 rue-d-athenes 1
+2 3 rue-de-rome 2
+1 2 rue-de-moscou 3
+4 rue-de-londres rue-d-amsterdam rue-de-moscou rue-de-rome
+3 rue-d-athenes rue-de-moscou rue-de-londres
+
+/*
+3
+1
+2
+rue-d-athenes 2
+rue-d-amsterdam 1
+0
+1
+rue-de-londres 2
+2
+1
+rue-de-moscou 1
+There are 3 intersections with traffic light schedules:
+On intersection 1 the traffic lights are green for
+2 different incoming streets, namely
+rue-d-athenes for 2 seconds, then green for
+rue-d-amsterdam for 1 second, then again rue-d-athenes.
+On intersection 0 the traffic lights are green for
+1 incoming street only, namely
+rue-de-londres for 2 seconds per cycle (it's always green
+for rue-de-londres).
+On intersection 2 the traffic lights are green for
+1 incoming street only, namely
+rue-de-moscou for 1 second per cycle (it's always green for
+rue-de-moscou).
+*/

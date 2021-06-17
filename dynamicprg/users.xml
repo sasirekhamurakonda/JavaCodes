@@ -1,0 +1,38 @@
+<users>
+<user>
+    <name>sasirekha</name>
+    <password>sasi</password>
+    <email>sasirekhamurakonda@gmail.com</email>
+    <dob>5th jan 2000</dob>
+    <type>student</type>
+    <nationality>Indian</nationality>
+</user>
+
+<user>
+    <name>meghana</name>
+    <password>megha</password>
+    <email>meghanameda@gmail.com</email>
+    <dob>10th march 2000</dob>
+    <type>student</type>
+    <nationality>Indian</nationality>
+</user>
+
+<user>
+    <name>Harika</name>
+    <password>Hari</password>
+    <email>harikamurakonda@gmail.com</email>
+    <dob>30th june 1995</dob>
+    <type>Reasearch Analyst</type>
+    <nationality>Indian</nationality>
+</user>
+
+<user>
+    <name>Charuthri</name>
+    <password>charu</password>
+    <email>charuthriabburi@gmail.com</email>
+    <dob>20th may 2000</dob>
+    <type>student</type>
+    <nationality>Indian</nationality>
+</user>
+
+</users>
